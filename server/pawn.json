@@ -1,0 +1,12 @@
+{
+	"user": "zile42o",
+	"repo": "samp-rce",
+	"tag": "0.0.1",
+	"entry": "gamemodes/main.pwn",
+	"output": "gamemodes/main.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"katursis/Pawn.RakNet:1.6.0"
+	],
+	"local": true
+}
