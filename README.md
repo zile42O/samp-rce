@@ -9,7 +9,10 @@ Small presentation example of Remote Code Execution in SA:MP. This vuln is fixed
    - #### Note: you already have build file in dir `release/` with name `sampRCE.dll`
 3. #### Rename file to change extension from `.dll` to `.asi`
 4. #### Move the file to dir `sRDI/`
-   - #### sRDI is external tool you can get it here: https://github.com/monoxgas/sRDI
+   - #### sRDI is external tool you can get it here: https://github.com/monoxgas/sRDI or via command:
+     ```
+     git clone https://github.com/monoxgas/sRDI   
+     ```
 5. #### Convert to shellcode
    ```
    py .\ConvertToShellcode.py .\sampRCE.asi
