@@ -36,6 +36,6 @@ Small presentation example of Remote Code Execution in SA:MP. This vulnerability
 ![demo2](images/telegram_demo.png)
 
 ### Credits
-#### big thanks to Even1137 who explained and cover this vulnerability you can check his post [here](https://www.blast.hk/threads/204306/)
+#### big thanks to EvgeN 1137 who explained and cover this vulnerability you can check his post [here](https://www.blast.hk/threads/204306/)
 ### Disclamer
 This repository is for academic purposes, the use of this software is your responsibility.
